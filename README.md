@@ -6,7 +6,7 @@ spd源码:https://github.com/gabime/spdlog
 cmake gui:https://cmake.org/download/
 
 # 配置
-1.解压spdlog源码，并打开解压后的文件夹，新建build文件夹
+1.解压spdlog源码，并打开解压后的文件夹，新建build文件夹  
 2.打开cmake，添加源码目录和输出目录，见下图：  
 ![image] (https://github.com/coczhang/spdlog_demo/blob/main/image/spd_01.png)  
 3.点击cmake UI的configure，下面选择的是win32，点击finish  
