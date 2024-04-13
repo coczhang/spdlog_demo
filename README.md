@@ -1,8 +1,8 @@
 # spdlog是一个开源、跨平台、无依赖、只有头文件的C++11日志库
 
 # 源码下载地址
-spd源码:https://github.com/gabime/spdlog
-cmake gui:https://cmake.org/download/
+spd源码:https://github.com/gabime/spdlog  
+cmake gui:https://cmake.org/download/  
 
 # 配置
 1.解压spdlog源码，并打开解压后的文件夹，新建build文件夹  
